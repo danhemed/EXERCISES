@@ -1,0 +1,24 @@
+{
+  "name": "exercisesjs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "��#\u0000 \u0000E\u0000X\u0000E\u0000R\u0000C\u0000I\u0000S\u0000E\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhemed/EXERCISES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhemed/EXERCISES/issues"
+  },
+  "homepage": "https://github.com/danhemed/EXERCISES#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
