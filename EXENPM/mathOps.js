@@ -10,4 +10,4 @@ function divide(a, b) {
     }
 }
 
-export {multiply, divide};
+export default {multiply, divide};
