@@ -1,4 +1,3 @@
-import fs, { writeFile } from "fs";
 import readline from "readline-sync";
 
 const choose = readline.question(
